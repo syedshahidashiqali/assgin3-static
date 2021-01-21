@@ -1,0 +1,40 @@
+a {
+    text-decoration: none;
+    /* color: white !important; */
+}
+
+* {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+/* .col-md-8 {
+    padding-left: 150px !important;
+} */
+
+
+
+/* .separator {
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+    text-align: center */
+/* } */
+
+
+
+
+
+/* div .col-md-4 {
+    width: 30px !important;
+    margin-left: 20px;
+} */
+
+.border {
+    box-shadow: grey 4px 4px 3px;
+    /* padding-left: 20px; */
+    width: 70px !important;
+}
